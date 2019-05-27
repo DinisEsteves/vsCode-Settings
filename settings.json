@@ -1,0 +1,21 @@
+{
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "blade.format.enable": true,
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.colorTheme": "Material Theme",
+    "explorer.openEditors.visible": 0,
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "vscode-great-icons",
+    "editor.cursorWidth": 1,
+    "editor.lineHeight": 35,
+    "php-cs-fixer.executablePath": "${extensionPath}\\php-cs-fixer.phar",
+    "php-cs-fixer.lastDownload": 1558621830437,
+    "php-cs-fixer.onsave": true,
+    "workbench.activityBar.visible": true
+}
